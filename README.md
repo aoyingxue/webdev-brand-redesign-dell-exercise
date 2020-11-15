@@ -1,4 +1,5 @@
 # Brand Redesign: Dell
+Demo: https://aoyingxue.github.io/webdev-brand-redesign-dell-exercise/
 
 For this assignment, you need to create your own version of brand or company's website. Here is a list of all Fortune 500 companies and their websites (Links to an external site.) to use for inspiration, but the brand/company you choose does not have to be from this list. 
 
